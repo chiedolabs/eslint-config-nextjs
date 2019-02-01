@@ -8,17 +8,17 @@ This config only has minor changes from Chiedo Labs' React config.
 
 Install this eslint config on npm by running
 
-	  yarn add --dev eslint eslint-config-chiedo-labs-nextjs eslint-config-chiedo-labs-react eslint-config-airbnb eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y
+	  yarn add --dev eslint @chiedolabs/eslint-config-nextjs @chiedolabs/eslint-config-react eslint-config-airbnb eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y
 
 Add to your project by creating an `.eslintrc` file and then setting the contents to the following.
 
 	  {
-	    "extends": "eslint-config-chiedo-labs-nextjs"
+	    "extends": "@chiedolabs/eslint-config-nextjs"
 	  }
 
 Update `package.json` to always download latest version of Chiedo Labs eslint config:
 
-    "eslint-config-chiedo-labs-nextjs": "latest",
+    "@chiedolabs/eslint-config-nextjs": "latest",
 
 ## Development
 
