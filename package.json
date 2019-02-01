@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-chiedo-labs-nextjs",
-  "version": "0.0.2",
+  "name": "@chiedolabs/eslint-config-nextjs",
+  "version": "0.1.0",
   "description": "Chiedo Labs ESLint config for React Projects Built with Next.js",
   "main": "index.js",
   "repository": "git@github.com:chiedolabs/eslint-config-nextjs.git",
