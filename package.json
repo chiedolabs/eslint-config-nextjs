@@ -1,6 +1,6 @@
 {
   "name": "@chiedolabs/eslint-config-nextjs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Chiedo Labs ESLint config for React Projects Built with Next.js",
   "main": "index.js",
   "repository": "git@github.com:chiedolabs/eslint-config-nextjs.git",
@@ -16,7 +16,7 @@
   "homepage": "https://github.com/chiedolabs/eslint-config-nextjs",
   "devDependencies": {
     "eslint": "^5.11.1",
-    "eslint-config-chiedo-labs-react": "latest",
+    "@chiedolabs/eslint-config-react": "latest",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
@@ -24,7 +24,7 @@
   },
   "peerDependencies": {
     "eslint": "^5.11.1",
-    "eslint-config-chiedo-labs-react": "latest",
+    "@chiedolabs/eslint-config-react": "latest",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
