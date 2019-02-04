@@ -1,5 +1,5 @@
 module.exports = {
-  extends: 'eslint-config-chiedo-labs-react',
+  extends: '@chiedolabs/eslint-config-react',
   rules: {
     // Next requires empty a tags in thier Link component
     'jsx-a11y/anchor-is-valid': [
